@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishasupyal
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python language
+- 🌱 I’m currently learning java language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
